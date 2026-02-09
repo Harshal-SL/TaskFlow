@@ -58,3 +58,5 @@ Visit `http://localhost:3000`.
 - **Task Categories**: Group tasks into categories.
 - **Task Notifications**: Reminders for pending tasks.
 - **Sync Across Devices**: Save tasks in a cloud-based database.
+
+**PR request From Kishanmc**
